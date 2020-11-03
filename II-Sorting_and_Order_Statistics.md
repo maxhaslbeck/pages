@@ -1,6 +1,6 @@
 ---
 title: Sorting and Order Statistics
-permalink: /I-sorting
+permalink: /II-sorting
 ---
 
 - Heapsort

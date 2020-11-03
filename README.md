@@ -23,6 +23,7 @@ We encourage our readers to notify us of missing related work via email or -- pr
 - [V - Advanced Data Structures](V-Advanced_Data_Structures.md)
 - [VI - Graph Algorithms](VI-Graph_Algorithms.md)
 - [VII - Selected Topics](VII-Selected_Topics.md)
+- [Additional Textbook Algorithms](Additional_Textbook_Algorithms.md)
 
 ## What more is in the paper
 

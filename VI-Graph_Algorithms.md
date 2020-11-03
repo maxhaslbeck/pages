@@ -1,6 +1,6 @@
 ---
 title: VI - Graph Algorithms
-permalink: /VI-Graph_Algorithms.md
+permalink: /VI-Graph_Algorithms
 ---
 
 - Elementary Graph Algorithms

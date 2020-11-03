@@ -3,6 +3,8 @@ title: IV - Advanced Design and Analysis Techniques
 permalink: /IV-Advanced_Design_and_Analysis_Techniques
 ---
 
+# IV - Advanced Design and Analysis Techniques
+
 ## Dynamic Programming
 
 ## Greedy Algorithms

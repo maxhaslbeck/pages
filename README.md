@@ -11,7 +11,7 @@ This website complements the paper and tries to give up-to-date references in th
 
 It must be emphasized that this survey is biased by our perspective and covers
 recent work by the authors in more depth. Moreover it is inevitably incomplete.
-We encourage our readers to notify us of missing related work via email or -- preferably -- a pull request.
+We encourage our readers to notify us of missing related work via email or -- preferably -- a [pull request](https://github.com/maxhaslbeck/pages/pulls).
 
 
 ## Index

@@ -12,4 +12,19 @@ Feel free to add algorithms that are considered "textbook", are not yet formaliz
 
 ## List
 
+### I - Foundations
 
+### II - Sorting
+
+### III - Data Structures
+
+### IV - Advanced Design and Analysis Techniques
+
+### V - Advanced Data Structures
+- Fibonacci Heaps
+
+### VI - Graph Algorithms
+
+### VII - Selected Topics
+
+### Additional Textbook Algorithms

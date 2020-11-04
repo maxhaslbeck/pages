@@ -3,6 +3,8 @@ title: Index
 permalink: /
 ---
 
+# A Biased Survey
+
 The paper [Verified Textbook Algorithms - A Biased Survey](https://link.springer.com/chapter/10.1007/978-3-030-59152-6_2) by Nipkow, Eberl and Haslbeck surveys the state of the art of verifying standard textbook algorithms.
 It focuses largely on the classic text by Cormen et al.
 Both correctness and running time complexity are considered.
@@ -27,6 +29,6 @@ We encourage our readers to notify us of missing related work via email or -- pr
 - [Additional Textbook Algorithms](Additional_Textbook_Algorithms.md)
 - [Unverified(?) Textbook Algorithms](Unverified_Textbook_Algorithms.md)
 
-## What more is in the paper
+## What More Is in the Paper
 
 [The paper](https://link.springer.com/chapter/10.1007/978-3-030-59152-6_2) additionally summarizes programming and verification frameworks commonly used, and summarizes mathematical foundations mentioned in the early chapters of "Introduction to Algorithms" by Cormen et al.

@@ -11,7 +11,8 @@ This website complements the paper and tries to give up-to-date references in th
 
 It must be emphasized that this survey is biased by our perspective and covers
 recent work by the authors in more depth. Moreover it is inevitably incomplete.
-We encourage our readers to notify us of missing related work via email or -- preferably -- a [pull request](https://github.com/maxhaslbeck/pages/pulls).
+We encourage our readers to notify us of missing related work via email or -- preferably -- a [pull request](https://github.com/maxhaslbeck/pages/pulls). 
+[Here](CONTRIBUTING.md) you can find details on how to contribute to this survey.
 
 
 ## Index
@@ -24,6 +25,7 @@ We encourage our readers to notify us of missing related work via email or -- pr
 - [VI - Graph Algorithms](VI-Graph_Algorithms.md)
 - [VII - Selected Topics](VII-Selected_Topics.md)
 - [Additional Textbook Algorithms](Additional_Textbook_Algorithms.md)
+- [Unverified(?) Textbook Algorithms](Unverified_Textbook_Algorithms.md)
 
 ## What more is in the paper
 
